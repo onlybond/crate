@@ -48,16 +48,16 @@
   ],
   "author": {
     "name": "Crate Contributors",
-    "url": "https://github.com/your-username/crate"
+    "url": "https://github.com/onlybond/crate"
   },
   "license": "MIT",
-  "homepage": "https://github.com/your-username/crate#readme",
+  "homepage": "https://github.com/onlybond/crate#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/crate.git"
+    "url": "https://github.com/onlybond/crate.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/crate/issues"
+    "url": "https://github.com/onlybond/crate/issues"
   },
   "engines": {
     "node": ">=18.0.0",
