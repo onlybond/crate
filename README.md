@@ -1,7 +1,7 @@
 # 📦 Crate
 
-[![CI](https://github.com/your-username/crate/workflows/CI/badge.svg)](https://github.com/your-username/crate/actions)
-[![npm version](https://badge.fury.io/js/crate.svg)](https://badge.fury.io/js/crate)
+[![CI](https://github.com/onlybond/crate/workflows/CI/badge.svg)](https://github.com/onlybond/crate/actions)
+[![npm version](https://badge.fury.io/js/@onlybond/crate.svg)](https://badge.fury.io/js/@onlybond/crate)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-%230074c1.svg)](http://www.typescriptlang.org/)
 
@@ -27,9 +27,9 @@ but everything installs into `.crate/lib` instead of polluting your project with
 Install Crate globally:
 
 ```bash
-pnpm install -g crate
+pnpm install -g @onlybond/crate
 # or
-npm install -g crate
+npm install -g @onlybond/crate
 ```
 
 ---
@@ -176,7 +176,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/crate.git
+git clone https://github.com/onlybond/crate.git
 cd crate
 
 # Install dependencies
@@ -229,9 +229,9 @@ pnpm type-check
 
 ## 🐛 Issues & Support
 
-- 🐛 [Report a bug](https://github.com/your-username/crate/issues/new?template=bug_report.md)
-- 💡 [Request a feature](https://github.com/your-username/crate/issues/new?template=feature_request.md)
-- 💬 [Join discussions](https://github.com/your-username/crate/discussions)
+- 🐛 [Report a bug](https://github.com/onlybond/crate/issues/new?template=bug_report.md)
+- 💡 [Request a feature](https://github.com/onlybond/crate/issues/new?template=feature_request.md)
+- 💬 [Join discussions](https://github.com/onlybond/crate/discussions)
 
 ## 🔒 Security
 
@@ -245,7 +245,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Inspired by Python's `venv` and `virtualenv`
 - Built with TypeScript and Node.js
-- Thanks to all [contributors](https://github.com/your-username/crate/graphs/contributors) who help make this project better
+- Thanks to all [contributors](https://github.com/onlybond/crate/graphs/contributors) who help make this project better
 
 ---
 
