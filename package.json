@@ -1,6 +1,6 @@
 {
   "name": "@onlybond/crate",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A virtual environment for Node.js — like Python's venv, but for npm, pnpm, yarn, and bun",
   "main": "dist/cli.js",
   "types": "dist/cli.d.ts",
